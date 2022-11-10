@@ -1,4 +1,5 @@
 # To-Do-List ![](https://img.shields.io/badge/Microverse-blueviolet)
+
 ## Built With
 
 - HTML
@@ -14,6 +15,7 @@ An editor : VS code.
 
 ### Setup
 Clone this repository by using the command line : 
+
 `git clone https://github.com/Rikol137/To-Do-List'
 
 ## Authors
